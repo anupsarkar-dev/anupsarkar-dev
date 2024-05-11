@@ -64,9 +64,8 @@ Feel free to tailor this bio further to match your personal style and profession
 </p>
 
 </br>
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/PayAnupSarkar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="PayAnupSarkar" /></a></p>
-
+ 
+ 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anupsarkar-dev&show_icons=true&locale=en&layout=compact" alt="anupsarkar-dev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anupsarkar-dev&show_icons=true&locale=en" alt="anupsarkar-dev" /></p>
