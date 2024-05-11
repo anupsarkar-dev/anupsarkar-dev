@@ -4,7 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anupsarkar-dev&label=Profile%20views&color=0e75b6&style=flat" alt="anupsarkar-dev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anupsarkar-dev" alt="anupsarkar-dev" /></a> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=anupsarkar-dev&show_icons=true&locale=en" alt="anupsarkar-dev" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anupsarkar-dev&" alt="anupsarkar-dev" /></p>
+
 
 - 🔭 I’m currently working on [SpotLights](https://github.com/anupsarkar-dev/SpotLights)
 
@@ -63,8 +64,8 @@ Feel free to tailor this bio further to match your personal style and profession
 <a href="https://www.leetcode.com/anupsarkar-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anupsarkar-dev" height="30" width="40" /></a>
 </p>
 
-</br>
+ 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=anupsarkar-dev&show_icons=true&locale=en" alt="anupsarkar-dev" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anupsarkar-dev&" alt="anupsarkar-dev" /></p>
+
 
  
