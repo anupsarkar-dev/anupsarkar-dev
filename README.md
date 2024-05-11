@@ -2,7 +2,8 @@
 <h3 align="center">A Software Engineer fueled by curiosity and passion.</h3>
 <h5>I thrive in building scalable and high-performance cloud solutions. With a robust background in Full Stack Web Development (.NET) and Android Application Development, I excel in translating complex requirements into seamless and efficient applications.</h5>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anupsarkar-dev&label=Profile%20views&color=0e75b6&style=flat" alt="anupsarkar-dev" /> <img align="left" src="https://github-readme-stats.vercel.app/api?username=anupsarkar-dev&show_icons=true&locale=en&style=flat" alt="anupsarkar-dev" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anupsarkar-dev&" alt="anupsarkar-dev" /></p>
+<img src="https://komarev.com/ghpvc/?username=anupsarkar-dev&label=Profile%20views&color=0e75b6&style=flat" alt="anupsarkar-dev" /> 
+<p align="left"> <img align="left" src="https://github-readme-stats.vercel.app/api?username=anupsarkar-dev&show_icons=true&locale=en&style=flat" alt="anupsarkar-dev" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anupsarkar-dev&" alt="anupsarkar-dev" /></p>
 
 </br>
 
