@@ -64,9 +64,6 @@ Feel free to tailor this bio further to match your personal style and profession
 </p>
 
 </br>
- 
- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anupsarkar-dev&show_icons=true&locale=en&layout=compact" alt="anupsarkar-dev" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=anupsarkar-dev&show_icons=true&locale=en" alt="anupsarkar-dev" /></p>
 
